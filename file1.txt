@@ -10,5 +10,6 @@ any text20
 any text21
 any text22
 any text23
-squash merge test 1-1
-squash merge test 1-2
+squash merge test 24-1
+squash merge test 24-2
+squash merge test 24-3
