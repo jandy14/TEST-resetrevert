@@ -14,3 +14,4 @@ squash merge test 24-1
 squash merge test 24-2
 squash merge test 24-3
 rebase merge test 25-1
+rebase merge test 25-2
